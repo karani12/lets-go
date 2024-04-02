@@ -1,6 +1,6 @@
 ---
 title: 'Hello World'
-date: 2/4/2024
+date: 2024-02-04
 author: Karani John
 gravatar: 02cfa3547467a76bea3a92cb8cc821c9bcfa635f24135308e57470ed80d829cb
 twitter: '@MKarani_'
