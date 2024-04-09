@@ -5,33 +5,26 @@ export default defineConfig({
   title: "Karani's Blog",
   description: 'Welcome to my blog!',
   cleanUrls: true,
+  
   head: [
-    // ['meta', { name: 'twitter:site', content: '@vuejs' }],
-    // ['meta', { name: 'twitter:card', content: 'summary' }],
-    // [
-    //   'meta',
-    //   {
-    //     name: 'twitter:image',
-    //     content: 'https://vuejs.org/images/logo.png'
-    //   }
-    // ],
+    ['meta', { name: 'twitter:site', content: 'karani' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: ''
+      }
+    ],
     [
       'link',
       {
-        // rel: 'icon',
-        // type: 'image/x-icon',
-        // href: '/favicon.ico'
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico'
       }
     ],
-    // [
-      // 'script',
-      // {
-      //   src: 'https://cdn.usefathom.com/script.js',
-      //   'data-site': 'NYHGSGQV',
-      //   'data-spa': 'auto',
-      //   defer: ''
-      // }
-    // ]
+  
   ],
   buildEnd: genFeed
 })
