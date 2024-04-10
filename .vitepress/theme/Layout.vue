@@ -14,7 +14,7 @@ const { page, frontmatter } = useData()
       <nav class="flex justify-between items-center py-10 font-bold">
         <a class="text-xl" href="/" aria-label="Karani's blog">
           <img
-            class="h-10 	aspect-ratio: 1 / 1; w-auto"
+            class="h-32 w-auto"
             src="/logo.svg"
             alt="Karani's blog"
           />
