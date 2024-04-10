@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
 export default defineConfig({
-  title: "Karani's Blog",
-  description: 'Welcome to my blog!',
+  title: "Makena's Blog",
+  description: 'Let’s talk about tech, life, and everything in between.',
   cleanUrls: true,
   
   head: [

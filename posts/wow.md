@@ -1,14 +1,12 @@
 ---
-title: 'Hello World'
-date: 2024-02-04
-author: Karani John
-gravatar: 02cfa3547467a76bea3a92cb8cc821c9bcfa635f24135308e57470ed80d829cb
-twitter: '@MKarani_'
+title: 'Wow! My first blog post!'
+date: 2024-02-10
+author: Makena Kinyua
+avatar: 'https://res.cloudinary.com/dqqt1sa0n/image/upload/v1712776010/dxscnqdzuav2cmcxzg3w.jpg'
+twitter: '@MakenaKinyua6'
 ---
 
-Hello, here to say what I need to say. I am a software engineer and I am here to share my thoughts and experiences with you. I hope you enjoy my blog. 
+Hello, world! This is my first blog post. I'm excited to share my thoughts on data science, machine learning, cooking, and more. Stay tuned for more posts!
 
 ---
 ### Test
-
-This is a test

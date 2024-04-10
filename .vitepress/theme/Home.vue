@@ -12,7 +12,7 @@ const { frontmatter } = useData()
       <h1
         class="text-3xl leading-9 font-extrabold text-gray-900 dark:text-white tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
       >
-      <span class="bg-gradient-to-r from-yellow-400 to-blue-600 bg-clip-text">Karani's</span> Blog
+      <span class="bg-gradient-to-r from-yellow-400 to-blue-600 bg-clip-text">Makena's</span> Blog
         <!-- {{ frontmatter.title }} -->
       </h1>
       <p class="text-lg leading-7 text-gray-500 dark:text-white">
